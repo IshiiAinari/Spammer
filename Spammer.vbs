@@ -72,3 +72,5 @@ if response <> vbNo then
 End if
 
 MsgBox "Spammer goes to sleep...", vbInformation, "[MESSAGE] - FINISH SPAM"
+
+MsgBox "Spammer goes to sleep...", vbInformation, "[MESSAGE] - FINISH SPAM"
