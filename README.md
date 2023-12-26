@@ -1,2 +1,2 @@
 # Spammer
-Tải sài đi rồi biết
+Tải sài đi rồi biết.
